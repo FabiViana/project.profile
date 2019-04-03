@@ -1,0 +1,26 @@
+.main {
+    background-image: url(../assets/imgs/aerial-architecture-black-and-white-700974.jpg);  
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+#socialmidia {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 50px;
+    padding: 50px; 
+    
+  
+
+}
+
+.most-visited {
+    text-align: center;
+
+}
+
+
